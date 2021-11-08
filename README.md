@@ -19,14 +19,14 @@ Client-Side Stored XSS  | 5/10        | This vulnerability allows attackers to e
 
 ## Setup
 ```
-cd bin
-./exploit
+Steps for running exploit:
+	cd bin
+	./exploit
 	
 
-Steps for compiling (If you want to for whatever reason)
-Make sure you have Vlang (V) installed
-v exploit.v
-./exploit
+Steps for compiling (Make sure you have Vlang installed):
+	v exploit.v
+	./exploit
 ```
 	
 ## Credits
