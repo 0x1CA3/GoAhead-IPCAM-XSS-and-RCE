@@ -16,7 +16,19 @@ Vulnerability           | Severity    | Description
 -------------           | ----------- | -----------
 Remote Code Execution   | 10/10       | This vulnerability allows remote attackers to execute arbitrary system commands.
 Client-Side Stored XSS  | 5/10        | This vulnerability allows attackers to execute arbitrary javascript code on a victims browser.
-			 
+
+## Setup
+```
+cd bin
+./exploit
+	
+
+Steps for compiling (If you want to for whatever reason)
+Make sure you have Vlang (V) installed
+v exploit.v
+./exploit
+```
+	
 ## Credits
 ```
 https://github.com/0x1CA3
