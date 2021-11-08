@@ -1,5 +1,5 @@
 <h1 align="center">
-    GoAhead IPCAM Camera Exploit
+    GoAhead IPCAM Exploit
 </h1>
 <p align="center">
 	An exploit for an XSS vulnerability I found in the GoAhead webserver. I also decided to re-write and add an exploit for 
