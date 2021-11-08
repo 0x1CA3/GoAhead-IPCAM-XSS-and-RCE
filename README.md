@@ -2,7 +2,8 @@
     GoAhead IPCAM Camera Exploit
 </h1>
 <p align="center">
-	An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com.
+	An exploit for an XSS vulnerability I found in the GoAhead webserver. I also decided to re-write and add an exploit for 
+	the RCE vulnerability that was discovered by other security researchers for this webserver.
 </p>
 
 <p align="center">
