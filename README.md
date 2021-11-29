@@ -14,8 +14,8 @@
 ## Details
 Vulnerability           | Severity    | Description
 -------------           | ----------- | -----------
+Stored XSS  | 5/10        | This vulnerability allows attackers to execute arbitrary javascript code on a victims browser.
 Remote Code Execution   | 10/10       | This vulnerability allows remote attackers to execute arbitrary system commands.
-Client-Side Stored XSS  | 5/10        | This vulnerability allows attackers to execute arbitrary javascript code on a victims browser.
 
 ## Setup
 ```
